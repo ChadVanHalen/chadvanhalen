@@ -1,21 +1,32 @@
-<h1>Hi, I'm Chad! <br/>
+<h1>Hi, I'm Chad!<br/>
+  Here is a catalog of projects I've worked on in my spare time as I look to continue my IT career and move into cybersecurity<br/>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SOCAnalystLab)</b>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>SIEM in Azure</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  https://www.youtube.com/watch?v=RoZeVbbZ0o0&ab_channel=JoshMadakor
+
+- <b>Active Directory Environment</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+  - https://www.youtube.com/watch?v=MHsI8hJmggI&ab_channel=JoshMadakor
+
+- <b>File Integrity monitor</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+  - https://www.youtube.com/watch?v=WJODYmk4ys8&ab_channel=JoshMadakor
+
+- <b>Vulnerability Management Lab</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - https://www.youtube.com/watch?v=lT6Px9zJM3s&ab_channel=JoshMadakor
+
+- <b>Simple REST API/b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
