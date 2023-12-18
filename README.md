@@ -5,7 +5,7 @@
 
 - <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SOCAnalystLab)</b>
 
-- <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SIEM-Honeypot-Lab/tree/main)</b>
+- <b>[SIEM Honeypot Lab](https://github.com/ChadVanHalen/SIEM-Honeypot-Lab/tree/main)</b>
 
 - <b>Active Directory Environment</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
