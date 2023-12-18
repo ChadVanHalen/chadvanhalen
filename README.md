@@ -5,9 +5,7 @@
 
 - <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SOCAnalystLab)</b>
 
-- <b>SIEM in Azure</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  https://www.youtube.com/watch?v=RoZeVbbZ0o0&ab_channel=JoshMadakor
+- <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SIEM-Honeypot-Lab/tree/main)</b>
 
 - <b>Active Directory Environment</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
