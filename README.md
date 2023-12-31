@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chad!<br/>
-  Here is a catalog of projects I've worked on in my spare time as I look to continue my IT career and move into cybersecurity<br/>
+  Below is a collection of projects I've worked on as I look to continue my IT career and move into cybersecurity<br/>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
