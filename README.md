@@ -2,6 +2,7 @@
   Here is a catalog of projects I've worked on in my spare time as I look to continue my IT career and move into cybersecurity<br/>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
 - <b>[SIEM Setup Lab](https://github.com/ChadVanHalen/SIEM-Setup-Lab)</b>
 
 - <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SOCAnalystLab)</b>
