@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chad!<br/>
-  Below is a collection of homelab projects I've worked on as I look to continue my IT career and move into cybersecurity<br/>
+  Below is a collection of homelab projects.<br/>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
