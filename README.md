@@ -11,7 +11,7 @@
 
 - <b>[IDS Lab](https://github.com/ChadVanHalen/IDS-Lab)</b>
 
--<b>[Malware Analysis Lab](https://github.com/ChadVanHalen/Malware-Analysis-Lab)</br>
+- <b>[Malware Analysis Lab](https://github.com/ChadVanHalen/Malware-Analysis-Lab)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
