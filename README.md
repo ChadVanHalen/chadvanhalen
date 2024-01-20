@@ -7,6 +7,8 @@
 
 - <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SOCAnalystLab)</b>
 
+- <b>[Automation Lab](https://github.com/ChadVanHalen/Automation-Lab)</b>
+
 - <b>[SIEM Honeypot Lab](https://github.com/ChadVanHalen/SIEM-Honeypot-Lab/tree/main)</b>
 
 - <b>[IDS Lab](https://github.com/ChadVanHalen/IDS-Lab)</b>
