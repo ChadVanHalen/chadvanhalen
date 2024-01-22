@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chad!<br/>
-  I'm an aspiring cybersecurity professional with a passion for threat detection and vulnerability analysis. Equipped with strong analytical skills and eagerness to learn from experienced mentors.<br/>
+  I'm an aspiring cybersecurity professional with a passion for threat detection and vulnerability analysis. Equipped with strong analytical skills and eagerness to learn from experienced mentors.<br/><br/>
   Below is a collection of homelab projects I've completed to both hone and demonstrate my skills.<br/>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
