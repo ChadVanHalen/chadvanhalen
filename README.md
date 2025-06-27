@@ -18,6 +18,8 @@
 
 <h2>☁️ Cloud Projects:</h2>
 
+- <b> [AWS - VPC Hardening: NIST & CIS Compliance Implementation](https://github.com/ChadVanHalen/AWS-VPC-Hardening-NIST-CIS-Compliance)<br/>
+
 - <b> [Azure - Creating A Virtual Machine and Web Server](https://github.com/ChadVanHalen/Azure---Creating-A-Virtual-Machine-and-Web-Server)<br/>
 
 <h2> 🤳 Connect with me:</h2>
