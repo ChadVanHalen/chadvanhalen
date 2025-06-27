@@ -2,7 +2,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%20|%20Azure-orange)
 ![DFIR](https://img.shields.io/badge/DFIR-Malware%20Analysis-red)
 
-# Hi, I'm Chad!<br/>
+# Hi, I'm Chad!
 I'm a cybersecurity professional who breaks things methodically—by day as a threat detection specialist, by night as a homelab mad scientist.<br/>
 When I'm not auditing security controls or wrestling with IAM policies at work, you'll find me building cloud defenses and attack simulations to sharpen my skills (and occasionally rage-quitting misconfigured NACLs).<br/><br/>
 
@@ -13,14 +13,14 @@ Projects where I bridge my professional expertise with hands-on experimentation:
 🛠️ Defensive Experiments: Malware analysis, honeypots, and security tooling<br/>
 ☁️ Cloud Security: Hardening AWS/Azure environments (with compliance guardrails)<br/>
 ## Featured Labs:<br/>
-AWS VPC Hardening (NIST/CIS compliance)<br/>
+[AWS VPC Hardening (NIST/CIS compliance)](https://github.com/ChadVanHalen/AWS-VPC-Hardening-NIST-CIS-Compliance)<br/>
 <br/>
-SIEM Detection Engineering<br/>
+[SIEM Detection Engineering](https://github.com/ChadVanHalen/SIEM-Setup-Lab)<br/>
 <br/>
-Azure Security Lab<br/>
+[Azure Security Lab](https://github.com/ChadVanHalen/Azure---Creating-A-Virtual-Machine-and-Web-Server)<br/>
 <br/>
-Malware Analysis Sandbox<br/>
-  <br/>
+[Malware Analysis Sandbox](https://github.com/ChadVanHalen/Malware-Analysis-Lab)<br/>
+  <br/><br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[SIEM Setup Lab](https://github.com/ChadVanHalen/SIEM-Setup-Lab)</b>
