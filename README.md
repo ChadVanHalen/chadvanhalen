@@ -13,33 +13,31 @@ Projects where I bridge my professional expertise with hands-on experimentation:
 🛠️ Defensive Experiments: Malware analysis, honeypots, and security tooling<br/>
 ☁️ Cloud Security: Hardening AWS/Azure environments (with compliance guardrails)<br/>
 ## Featured Labs:<br/>
-[AWS VPC Hardening (NIST/CIS compliance)](https://github.com/ChadVanHalen/AWS-VPC-Hardening-NIST-CIS-Compliance)<br/>
+[AWS VPC Hardening (NIST/CIS compliance)](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/AWS%20VPC%20Hardening%20NIST%20CIS%20Compliance)<br/>
 <br/>
-[SIEM Detection Engineering](https://github.com/ChadVanHalen/SIEM-Setup-Lab)<br/>
+[SIEM Detection Engineering](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/SIEM%20Honeypot%20Lab)<br/>
 <br/>
-[Azure Security Lab](https://github.com/ChadVanHalen/Azure---Creating-A-Virtual-Machine-and-Web-Server)<br/>
+[Azure Security Lab](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/Azure%20Creating%20A%20Virtual%20Machine%20and%20Web%20Server)<br/>
 <br/>
-[Malware Analysis Sandbox](https://github.com/ChadVanHalen/Malware-Analysis-Lab)<br/>
+[Malware Analysis Sandbox](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/Malware%20Analysis%20Lab)<br/>
   <br/><br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[SIEM Setup Lab](https://github.com/ChadVanHalen/SIEM-Setup-Lab)</b>
+- <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/SOC%20Analyst%20Lab)</b>
 
-- <b>[SOC Analyst Lab](https://github.com/ChadVanHalen/SOCAnalystLab)</b>
+- <b>[Automation Lab](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/Automation%20Lab)</b>
 
-- <b>[Automation Lab](https://github.com/ChadVanHalen/Automation-Lab)</b>
+- <b>[SIEM Honeypot Lab](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/SIEM%20Honeypot%20Lab)</b>
 
-- <b>[SIEM Honeypot Lab](https://github.com/ChadVanHalen/SIEM-Honeypot-Lab/tree/main)</b>
+- <b>[IDS Lab](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/IDS%20Lab)</b>
 
-- <b>[IDS Lab](https://github.com/ChadVanHalen/IDS-Lab)</b>
-
-- <b>[Malware Analysis Lab](https://github.com/ChadVanHalen/Malware-Analysis-Lab)</b>
+- <b>[Malware Analysis Lab](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/Malware%20Analysis%20Lab)</b>
 
 <h2>☁️ Cloud Projects:</h2>
 
-- <b> [AWS - VPC Hardening: NIST & CIS Compliance Implementation](https://github.com/ChadVanHalen/AWS-VPC-Hardening-NIST-CIS-Compliance)<br/>
+- <b> [AWS - VPC Hardening: NIST & CIS Compliance Implementation](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/AWS%20VPC%20Hardening%20NIST%20CIS%20Compliance)<br/>
 
-- <b> [Azure - Creating A Virtual Machine and Web Server](https://github.com/ChadVanHalen/Azure---Creating-A-Virtual-Machine-and-Web-Server)<br/>
+- <b> [Azure - Creating A Virtual Machine and Web Server](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects/Azure%20Creating%20A%20Virtual%20Machine%20and%20Web%20Server)<br/>
 
 <h2> 🤳 Connect with me:</h2>
 
