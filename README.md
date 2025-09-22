@@ -69,6 +69,14 @@ Projects where I bridge hands-on skills with real-world security practice:
 
 ---
 
+## 📂 Full Project Portfolio
+
+This page highlights a selection of my projects. For a complete list with detailed README files, visit the main project directory:
+
+➡️ **[View All Projects]([https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects](https://github.com/ChadVanHalen/Tech-Portfolio/tree/main/projects))**
+
+---
+
 ## 🤳 Let's Connect:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
